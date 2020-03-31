@@ -90,12 +90,12 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 |            |
-| [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial/vim)                                                                      |            |
-| [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |            |
-| [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |            |
-| [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |            |
-| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
+| [Learn the Command Line in Terminal](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)                                                                 |            |
+| [Visual Studio Docs: User Guide](https://code.visualstudio.com/docs)                                                                      |            |
+| [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)                                                                          |            |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)                                                                             |            |
+| [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)                                                         |            |
+| [The Modern Javascript Tutorial](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
 | [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
 | [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
@@ -104,8 +104,8 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
-| Tier Programming Project                                                                                                                                              |            |
-| Tier Programming Project                                                                                                                                              |            |
+| [Youtube Page](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)                                                                                                                                         |            |
+| [Complete CodeWars JS Katas Collections](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series)                                                                                                                                          |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
