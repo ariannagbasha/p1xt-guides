@@ -92,20 +92,22 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
+| [Learn the Command Line in Terminal](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)                                                                 |            |
+| [Visual Studio Docs: User Guide](https://code.visualstudio.com/docs)                                                                      |            |
+| [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)                                                                          |            |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)                                                                             |            |
+| [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)                                                         |            |
+| [The Modern Javascript Tutorial](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |            |
+| **Reading**                                                                                                                                                           | **Status** | **Evidence** |
+| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
+| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
+| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
+| **Practice**                                                                                                                                                          | **Status** | **Evidence** |
+| [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
+| [Youtube Page](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)                                                                                                                                         |            |
+| [Complete CodeWars JS Katas Collections](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series)                                                                                                                                          |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
